@@ -1,8 +1,8 @@
 # JavaScript-Essentials 🚀
 
-Official code repository for the YouTube series "You Don't Know JavaScript" 🎥
+Official code repository for the YouTube series "You Don't Know JavaScript | JavaScript Essentials" 🎥
 
-This repository contains all the reference code demonstrated in our in-depth YouTube tutorials. It serves as a comprehensive resource for viewers to review, practice, and expand upon the concepts covered in each episode. 📚💻
+This repository contains all the reference code demonstrated in my in-depth YouTube tutorials. It serves as a comprehensive resource for viewers to review, practice, and expand upon the concepts covered in each episode. 📚💻
 
 ## What's Inside 🔍
 
@@ -20,8 +20,9 @@ This repository contains all the reference code demonstrated in our in-depth You
 
 ## Topics Covered 🎓
 
-Our series delves deep into JavaScript, covering:
+This series will dive deep into JavaScript, covering:
 
+- JavaScript Basics (The Fundamentals) 👶
 - Closures and lexical scope 🔐
 - Prototypal inheritance and the prototype chain 🧬
 - Asynchronous JavaScript (Callbacks, Promises, async/await) ⏳🔄
@@ -44,6 +45,6 @@ Don't forget to star this repo ⭐ and subscribe to our YouTube channel to stay 
 
 ## Contributions 🤝
 
-While the main content is based on our YouTube series, we welcome contributions! If you have suggestions for improvements, additional examples, or spot any issues, please feel free to open an issue or submit a pull request. 🛠️🌟
+While the main content is based on our YouTube series, I welcome contributions! If you have suggestions for improvements, additional examples, or spot any issues, please feel free to open an issue or submit a pull request. 🛠️🌟
 
 Let's uncover the depths of JavaScript together, one concept at a time! 🔥👨‍💻👩‍💻
